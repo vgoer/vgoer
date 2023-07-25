@@ -27,3 +27,10 @@ You can click the Preview link to take a look at your changes.
 <!--  <img alt="profile pic" width="195px" src="https://avatars2.githubusercontent.com/u/26059688?s=460&u=d41b000a62eab50d000c3da604d151cec27bd850&v=4" />  -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adi1090x&hide=ruby,perl&hide_border=true" />  -->
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lxfriday/lxfriday/output/github-contribution-grid-snake.svg">
+</picture>
