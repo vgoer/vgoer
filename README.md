@@ -1,3 +1,16 @@
+
+<div align="center">
+<br>
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+    <a href="https://blog.ayaka.icu/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);我...是一个菜鸟...学习中...&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
+  <br><img src="https://ayaka-icu-oss.oss-cn-beijing.aliyuncs.com/gif/pc.gif" /><br><br>
+
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vgoer/vgoer/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vgoer/vgoer/output/github-contribution-grid-snake.svg">
@@ -5,10 +18,16 @@
 </picture>
 
 
-- 👋 Hi, I’m vgoer @ 阿浩 也可以叫我 千夜 小新
-- 👀 I’m interested in code, guitar, basketball, running @ 代码、吉他、篮球、跑步
-- 🌱 I’m currently learning go javascrpt vue php @ 总之啥都想学
-- 📫 How to reach me wechat:vuegoer @ 可以加我微信：vuegoer
+<br>
+
+## Who am I?
+- 👋 Hi, I’m vgor. @ 阿浩 也可以叫我 千夜 小新
+- 💦 I'm Master from . @ Yunnan Open University  @ 云南开放大学
+- 👀 I’m interested in code, guitar, basketball, running, Mountain climbing and so on @ 代码、吉他、篮球、跑步、爬山 等等
+- 🌱 I’m currently learning go javascrpt vue php linux docker k8s ... @ 总之啥都想学
+- 📫 How to reach me wechat:vuegoer。I enjoy making friends @ 我很喜欢交朋友，如果需要可以加我微信：vuegoer
+
+<br>
 
 <!-- ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff) -->
 <!-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff) -->
