@@ -5,7 +5,6 @@
   <div align="center">
     <a href="https://vgoer.github.io/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);众里寻他千百度，蓦然回首，那人却在，灯火阑珊处。&center=true&size=27" alt="Typing SVG" />
-      
     </a>
   </div>
   <br><img src="https://ayaka-icu-oss.oss-cn-beijing.aliyuncs.com/gif/pc.gif" /><br><br>
