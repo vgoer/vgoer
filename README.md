@@ -4,7 +4,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.ayaka.icu/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);我...是一个菜鸟...学习中...&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World%22);仰天大笑出门去,我辈岂是蓬蒿人。&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
   <br><img src="https://ayaka-icu-oss.oss-cn-beijing.aliyuncs.com/gif/pc.gif" /><br><br>
